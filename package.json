@@ -10,7 +10,7 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "native-base": "^2.13.8",
         "react": "16.9.0",
         "react-native": "0.61.5",
